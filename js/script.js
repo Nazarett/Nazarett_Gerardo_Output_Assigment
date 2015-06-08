@@ -18,7 +18,7 @@ console.log(yearBorn);
 
 var firstName = "Gerardo";
 var lastName = "Nazarett";
-var myJob = "I'm a UPS driver. Was in the United States Army for 4 years 1/2";
+var myJob = "I'm a UPS driver";
 console.log("About me");
 console.log(firstName);
 console.log(lastName);
