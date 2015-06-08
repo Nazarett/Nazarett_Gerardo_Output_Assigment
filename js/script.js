@@ -13,3 +13,9 @@ console.log(age)
 console.log(dayBorn);
 console.log(monthBorn);
 console.log(yearBorn);
+
+//String Variable
+
+var firstName = "Gerardo"
+var lastName = "Nazarett"
+var aboutMe = "I'm a UPS driver. Was in the United States Army for 4 years 1/2"
