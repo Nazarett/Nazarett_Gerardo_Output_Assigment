@@ -4,6 +4,8 @@ console.log("Data Infrastructers")
 console.log("Creating Variables And Outputs")
 console.log("Number Variable")
 
+//Number Variables
+
 var age = 36;
 var dayBorn = 30;
 var monthBorn = 03;
@@ -25,6 +27,7 @@ console.log(firstName);
 console.log(lastName);
 console.log(myJob)
 console.log(militaryBackround)
+
 //Boolen Vaiable
 
 var UpsDriver = true;
