@@ -19,11 +19,12 @@ console.log(yearBorn);
 var firstName = "Gerardo";
 var lastName = "Nazarett";
 var myJob = "I'm a UPS driver";
+var militaryBackround = "I served in the United States Army for 4 years 1/2"
 console.log("About me");
 console.log(firstName);
 console.log(lastName);
-console.log(myJob);
-
+console.log(myJob)
+console.log(militaryBackround)
 //Boolen Vaiable
 
 var UpsDriver = true;
