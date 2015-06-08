@@ -1,8 +1,8 @@
-//Gerardo D Nazarett
-//C201506
-//Data Infrastructers
-//Creating Variables And Outputs
-//Number Variable
+console.log("Gerardo D Nazarett")
+console.log("C201506")
+console.log("Data Infrastructers")
+console.log("Creating Variables And Outputs")
+console.log("Number Variable")
 
 var age = 36;
 var dayBorn = 30;
@@ -16,6 +16,18 @@ console.log(yearBorn);
 
 //String Variable
 
-var firstName = "Gerardo"
-var lastName = "Nazarett"
-var aboutMe = "I'm a UPS driver. Was in the United States Army for 4 years 1/2"
+var firstName = "Gerardo";
+var lastName = "Nazarett";
+var myJob = "I'm a UPS driver. Was in the United States Army for 4 years 1/2";
+console.log("About me");
+console.log(firstName);
+console.log(lastName);
+console.log(myJob);
+
+//Boolen Vaiable
+
+var UpsDriver = true;
+var Janitor = false;
+console.log("Not sure how this boolean variable works, all I know is that it is true or false");
+console.log(UpsDriver)
+console.log(Janitor)
