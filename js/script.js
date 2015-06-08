@@ -1,4 +1,4 @@
-console.log("Gerardo D Nazarett")
+console.log("Gerardo D. Nazarett")
 console.log("C201506")
 console.log("Data Infrastructers")
 console.log("Creating Variables And Outputs")
